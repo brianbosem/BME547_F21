@@ -1,2 +1,8 @@
-# BME547_F21
-Classwork for BME 547 - Fall 2021
+# Health Database
+
+## Author Information
+Author: Brian Bosem
+
+Fall 2021
+
+## Specifications
